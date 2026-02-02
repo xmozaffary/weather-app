@@ -6,6 +6,7 @@ A React Native weather app built with TypeScript and Expo.
 
 1. Clone the repository
 2. Install dependencies:
+
 ```bash
    npm install
 ```
@@ -16,6 +17,7 @@ A React Native weather app built with TypeScript and Expo.
    - Replace `YOUR_API_KEY_HERE` with your actual API key
 
 4. Start the app:
+
 ```bash
    npx expo start
 ```
